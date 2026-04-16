@@ -1,2 +1,1 @@
-# Jinx-hub
-My portfolio 
+
